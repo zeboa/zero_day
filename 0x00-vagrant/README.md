@@ -1,1 +1,0 @@
-Vagrat readme
